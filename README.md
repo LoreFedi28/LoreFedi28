@@ -30,8 +30,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 ---
 
@@ -43,9 +41,8 @@
 
 ## 📫 How to reach me
 
-- <a href="mailto:lorefedi28@example.com">Email me</a>
-- <a href="https://www.linkedin.com/in/lorefedi28/">LinkedIn</a>
-- <a href="https://twitter.com/LoreFedi28">Twitter</a>
+- <a href="mailto:fedilorenzogm@gmail.com">Email me</a>
+- <a href="https://www.linkedin.com/in/lorenzo-fedi-822622258/">LinkedIn</a>
 
 ---
 
